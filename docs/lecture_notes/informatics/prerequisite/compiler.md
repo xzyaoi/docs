@@ -3,7 +3,7 @@
 
 ## Recommended Environments
 
-During this course, we will use ```gcc``` as the default compiler for C. If you are using Mac OS or Linux, ```gcc``` should have been installed on your machine. If you are using Windows, you may need an IDE to compile and run your C code. For how to verify and install the environments, please refer to [Installation](./tutorials/installation.html).
+During this course, we will use ```gcc``` as the default compiler for C. If you are using Mac OS or Linux, ```gcc``` should have been installed on your machine. If you are using Windows, you may need an IDE to compile and run your C code. For how to verify and install the environments, please refer to [Installation](./installation.md).
 
 
 ##
