@@ -76,6 +76,12 @@ const config = {
             label: 'Lecture Notes',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'projectsSidebar',
+            position: 'left',
+            label: 'Projects',
+          },
+          {
             href: 'https://github.com/xzyaoi',
             label: 'GitHub',
             position: 'right',
